@@ -1,0 +1,50 @@
+#cada{
+  position: relative;
+  left: 200px;
+
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 739px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Alatsi;
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 63px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 403px;
+  width: 570px;
+  margin: 36px auto 60px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
